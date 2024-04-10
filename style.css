@@ -1,0 +1,60 @@
+.background img{
+    width: 100%;
+}
+.semitrasparente{
+    background-color:hwb(0 4% 96% / 0.5);
+    width: 900px;
+    height: 800px;
+    position:absolute;
+    top: 10%;
+    left: 15%;
+    right:0%;
+    border-radius: 5%;
+    text-align: center;
+    }
+   
+.semitrasparente img{
+    width:20%;
+    left: 10%;
+    right: 10%;
+    padding: 10px 450px;
+    }
+    
+    #title{
+    color: chartreuse;
+    font-style: normal;
+    font-family:sans-serif;
+    font-size: 30px;
+}
+.semitrasparente button{
+    margin-top: 10px;
+    background-color: #fff; 
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 5px;
+}
+.barra-verde{
+    background-color:chartreuse;
+    padding: 20px 250px 20px;
+    border-radius:5px;
+}
+.nomi{
+    text-align:left;
+    margin-left: 20px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.barra-arancione{
+    background-color:rgb(234, 137, 11);
+    padding: 5px 100px 5px;
+    border-radius:5px;
+}
+.barra-verdedue{
+    background-color: chartreuse;
+    padding: 5px 200px 5px;
+    border-radius:5px;
+}
+.barra-rossa{ background-color:crimson;
+    padding: 5px 50px 5px;
+    border-radius:5px;
+}
